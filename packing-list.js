@@ -9,14 +9,13 @@ const packingList = [
   "cooking utensils",
 ];
 
-console.log("Kitchen stuff to pack:");
+console.log("Kitchen sff to pack:");
 for (let i = 0; i < packingList.length; i++) {
   console.log(packingList[i]);
 }
 
 packingList[3];
 
-console.log("/nKitchen stuff to pack:");
 let i = 0;
 while (i < packingList.length) {
   console.log(packingList[i]);
