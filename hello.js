@@ -18,6 +18,8 @@ const returnSayHello = function (name) {
 const greeting = returnSayHello("John");
 console.log(greeting);
 
+//////////////////////////////////////
+
 // const isEven = function (num) {
 //   return num % 2 === 0;
 // };
